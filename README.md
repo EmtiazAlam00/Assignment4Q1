@@ -6,6 +6,7 @@ Emtiaz Alam
 101114889
 
 Setup instructions for the database:
+
 In PostgreSQL create a database called "A4SQLJDBC" or anything else, once created use the query tool and add the following to create the student schema and table with the initial data to populate the table.
 CREATE TABLE students(
 	student_id	SERIAL PRIMARY KEY,
