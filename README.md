@@ -23,6 +23,7 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 Steps to compile and run your application:
+I used java
 
 
 Brief explanation of each function in the application:
