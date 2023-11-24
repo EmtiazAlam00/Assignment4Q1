@@ -1,6 +1,8 @@
 # Assignment4Q1
 COMP3005 Assignment 4 Question 1
 
+Video: https://youtu.be/C1aASyMCczw
+
 Assignment 4 Q1
 Emtiaz Alam
 101114889
@@ -23,7 +25,7 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 Steps to compile and run your application:
-I used java
+Use Java and IDE to compile and run application.
 
 
 Brief explanation of each function in the application:
