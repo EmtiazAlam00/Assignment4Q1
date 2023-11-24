@@ -25,7 +25,7 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 Steps to compile and run your application:
-Use Java and IDE to compile and run application.
+Copy the source file into an IDE using JAVA to compile and run the application.
 
 
 Brief explanation of each function in the application:
