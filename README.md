@@ -1,11 +1,6 @@
 # Assignment4Q1
-COMP3005 Assignment 4 Question 1
+COMP3005 Assignment 4
 
-Video: https://youtu.be/C1aASyMCczw
-
-Assignment 4 Q1
-Emtiaz Alam
-101114889
 
 Setup instructions for the database:
 
