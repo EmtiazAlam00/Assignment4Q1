@@ -1,5 +1,5 @@
 # Assignment4Q1
-COMP3005 Assignment 4
+COMP3005 Assignment Four
 
 
 Setup instructions for the database:
