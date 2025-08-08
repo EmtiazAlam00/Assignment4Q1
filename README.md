@@ -21,8 +21,7 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 
 Steps to compile and run your application:
 Copy the source file into an IDE using JAVA to compile and run the application.
------
-
+-
 Brief explanation of each function in the application:
 - getAllStudents() function retrieves and displays all records from the student table, it will also update if called when a new student is added to the student table by SQL or using JDBC. The function starts by trying to connect to the database with the credentials. A statement is created using SELECT to select all info of all students to be displayed.
 - addStudent() function has 4 arguments to be passed, those arguments are needed to successfully add a new Student into the student table database. The function starts by trying to connect to the database with the credentials. Then a statement is created INSERT INTO students with the given arguments. A print statement saying the student added successfully, then using the getAllStudents() function to print the updated student list.
