@@ -27,4 +27,6 @@ Brief explanation of each function in the application:
 - addStudent() function has 4 arguments to be passed, those arguments are needed to successfully add a new Student into the student table database. The function starts by trying to connect to the database with the credentials. Then a statement is created INSERT INTO students with the given arguments. A print statement saying the student added successfully, then using the getAllStudents() function to print the updated student list.
 - updateStudentEmail function updates the email address for a student with the specified student_id. The function connects to the database, then a SQL statement is created to update the email given the student_id, printing out if the email is updated or a specified student id was not found. 
 - deleteStudent function takes the student ID and deletes all of its info from the student table. Once connected to the database, the SQL statement DELETE selects the student where it equals to student_id. Two print statements for if the student is deleted or the student was not found.
--
+
+
+---
