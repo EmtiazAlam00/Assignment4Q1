@@ -29,4 +29,4 @@ Brief explanation of each function in the application:
 - deleteStudent function takes the student ID and deletes all of its info from the student table. Once connected to the database, the SQL statement DELETE selects the student where it equals to student_id. Two print statements for if the student is deleted or the student was not found.
 
 - ---
-=--=-=-
+=--=-=---
